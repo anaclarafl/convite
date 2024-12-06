@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: green;
+    background-image: url("./img/mary\ e\ betinho.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100% 130vh;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    h1{
+        width: 70%;
+        font-family: "Itim", cursive;
+        font-size: 6rem;
+        color: red;
+        font-weight: 400;
+        text-align: center;
+
+    }
+}
